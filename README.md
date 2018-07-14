@@ -1,2 +1,8 @@
 #Eco Website
-Changing the world one line of code at a time
+
+**How to run the project on your machine**
+
+**Version controlling hints & tips**
+
+
+
