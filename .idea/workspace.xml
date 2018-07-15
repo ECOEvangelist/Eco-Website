@@ -82,11 +82,11 @@
       <path value="$PROJECT_DIR$/vendor/twig/twig" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="293" />
-    <option name="y" value="53" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1923" />
+    <option name="y" value="40" />
+    <option name="width" value="1354" />
+    <option name="height" value="662" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
